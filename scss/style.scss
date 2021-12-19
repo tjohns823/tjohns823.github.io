@@ -510,7 +510,7 @@ header{
 		position: relative;
 
 		.slider-item {
-			background-size: cover;
+			background-size: contain;
 			background-repeat: no-repeat;
 			background-position: center center;
 			height: calc(100vh - 0);
